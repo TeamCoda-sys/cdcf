@@ -8,4 +8,4 @@ Grace a CDCF Vous voyez le code binaire d'un fichier lisible !
 
 ### [ Application requise : WinRAR ou 7Z ou autre ]
 
->Langage> Code fait en Python et JS
+> Langage > Code fait en Python et JS

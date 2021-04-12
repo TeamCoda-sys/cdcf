@@ -18,12 +18,13 @@ Des Photos ? CDCF permet de compillez aussi des Images ! (en png,jpeg,jpg ect...
 ***
 # Installation :
 
-## Pour Linux & Mac :
-Entrez cette ligne de commande :
+## Pour Linux :
+Entrez ses lignes de commande :
+`sudo apt install git`
 `git clone https://github.com/TeamCoda-sys/cdcf.git`
 Puis c'est installez !
 
-## Pour Windows :
+## Pour Windows & Mac :
 Installez CDCF a ce lien :
 `https://github.com/TeamCoda-sys/cdcf/archive/refs/heads/main.zip`
 Puis c'est installez !

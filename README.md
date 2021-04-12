@@ -4,6 +4,8 @@
 - Ajout de MediaPlayerSupport
 - Ajout de PhotoSupport
 
+# La Version 1.2 est Disponible ici : https://github.com/TeamCoda-sys/cdcf1.2 !
+
 CDCF est un type de fichier permettant de voir a l'interieur des fichiers binaire (ex : .zip,.docx,ect...)
 
 Grace a CDCF Vous voyez le code binaire d'un fichier lisible !

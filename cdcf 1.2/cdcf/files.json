@@ -1,4 +1,0 @@
-{
-    "files": "*.zip,*(.)",
-    "typeFile": "*.bin,*.a,*.asm"
-}

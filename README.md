@@ -1,4 +1,4 @@
-# CDCF
+# CDCF (Coda Compilled File)
 
 - Ajout de ZipSupport
 - Ajout de MediaPlayerSupport

@@ -34,6 +34,12 @@ Installez CDCF a ce lien :
 `https://github.com/TeamCoda-sys/cdcf/archive/refs/heads/main.zip`
 Puis c'est installez !
 
+## Pour Autres :
+Installez CDCF a ce lien :
+`https://github.com/TeamCoda-sys/cdcf-installer/archive/refs/heads/main.zip`
+
+Fichier d'installation disponible ici : https://github.com/TeamCoda-sys/cdcf-installer/archive/refs/heads/main.zip
+
 ***
 ## Les Fichier : MAJ.md , README.md et index.html peuvent etre supprimé
 ***

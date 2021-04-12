@@ -38,5 +38,8 @@ Puis c'est installez !
 ## Les Fichier : MAJ.md , README.md et index.html peuvent etre supprimé
 ***
 ### [ Application requise : WinRAR ou 7Z ou autre ]
+***
+Pour Cloner le Wiki : `git clone https://github.com/TeamCoda-sys/cdcf.wiki.git`
+***
 
 > Langage > Code fait en Python et JS
